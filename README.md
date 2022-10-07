@@ -1,16 +1,10 @@
-# laravel_api
+An application made with Flutter as frontend and Laravel as backend.
+The app has authentication functionality and every user has his data and the user can
+Laravel
+return to his session when he closes the application
 
-A new Flutter project.
+Tools: android studio, visual studio, sanctum, provider, Postman, JSON and Shared Preferences.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Retro bold checker mobile mockup instagram post  (2)](https://user-images.githubusercontent.com/57839549/194614600-542d3854-3544-487b-a8fc-8285461223b1.jpg)
